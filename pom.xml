@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.titor</groupId>
-    <artifactId>spring-boot-security</artifactId>
+    <artifactId>spring-boot-cloud</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-boot-security</name>
-    <description>Security Spring Boot Project</description>
+    <name>spring-boot-cloud</name>
+    <description>Cloud Spring Boot Project</description>
     <url/>
     <licenses>
         <license/>
